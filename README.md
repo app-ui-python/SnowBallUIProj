@@ -1,0 +1,2 @@
+# SnowBallUIProj
+This repo is created for a UI automation project. We choose xueqiu app as our research object. The framework of the project is consisted of Appium, Python, Unittest. The model of creating testcases is page object model. This is the first time for our team to create a UI test automation tool. So this is the good time to practice and find a way for UI automation to be used widely. Let's start and keep on doing! 
