@@ -1,0 +1,6 @@
+platformName: Android
+platformVersion: 4.4
+deviceName: chron
+udid: 634f5ff9
+appPackage: com.xueqiu.android
+appActivity: com.xueqiu.android.view.WelcomeActivityAlias
